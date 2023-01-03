@@ -22,7 +22,7 @@ Preprocessing :
 
 1- Transformation of data:by selecting the maximum value fromthe nested lists inside each row, representing the most important word.
 
-image
+!(imgs/1.png)
 
 2- Normalization :using the Minmax Scaler from Sklearn.
 
