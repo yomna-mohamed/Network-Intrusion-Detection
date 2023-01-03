@@ -26,7 +26,7 @@ Preprocessing :
 
 2- Normalization :using the Minmax Scaler from Sklearn.
 
-image
+![alt text](imgs/2.png)
 
 3-Cross Validation : K=5
 
@@ -56,18 +56,18 @@ image
 -Voting Algorithm
 3- Hyperparamter Tuning : on the best five modelwas SVM, Random Forest , Decision Tree, MLP and logistic Regression
 
-image
+![alt text](imgs/3.png)
 
 4- Performance Evaluations: by Accuracy , Recall and F1 Score
 
 📜 Result
 
-image
+![alt text](imgs/4.png)
 
 Stacking and voting result before hyparameter tuning
-image
+![alt text](imgs/5.png)
 
 Stacking and voting result AfterS hyparameter tuning
-image
+![alt text](imgs/6.png)
 
 The Champion Model was stacking algorithm with default paramters
